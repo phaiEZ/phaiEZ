@@ -1,4 +1,4 @@
-<img src='https://komarev.com/ghpvc/?username=p&color=grey&style=flat-square&label=Views'>
+<img src='https://komarev.com/ghpvc/?username=phaiEZ&color=grey&style=flat-square&label=Views'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phaiEZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phaiEZ)](https://github.com/anuraghazra/github-readme-stats)
